@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#WebPage{
+    background-image:linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ) ,url(images/HomeCode.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+    width: auto;
+}   
+#Welcome{
+    color:whitesmoke;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#button{
+    color:white;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 10px;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#button:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+#GetStarted{
+    padding-top: 15px;
+    padding-left: 38em;
+}
+
+.header{
+    color: black;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.card{
+    padding-left: 40px;
+}
+.newRow{
+    padding-top: 20px;
+    padding-left: 260px;
+}
+
+#task{
+    background-image: linear-gradient(180deg, white, gray);
+    background-repeat: no-repeat;
+    height: 680px;
+}
+
+#row1{
+    padding-top: 10px;
+}
